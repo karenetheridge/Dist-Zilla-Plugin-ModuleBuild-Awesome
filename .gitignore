@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Dist-Zilla-Plugin-ModuleBuild-Awesome-*/
+/Dist-Zilla-Plugin-ModuleBuild-Awesome-*.tar.gz
